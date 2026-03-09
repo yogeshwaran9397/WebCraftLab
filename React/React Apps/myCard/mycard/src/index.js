@@ -145,6 +145,16 @@ function Card(props) {
   );
 }
 
+function FormElement(props) {
+
+  const [value, setValue] = React.useState("");
+
+  return <>
+    <label>My Name: <input id="textValue" type="text" onChange={(e) => setValue(e.target.value)}></input></label>
+    <label>{value}</label>
+  </>
+}
+
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
@@ -165,6 +175,7 @@ root.render(
           />
         ))}
       </div>
+      <FormElement></FormElement>
     </div>
   </React.StrictMode>
 );

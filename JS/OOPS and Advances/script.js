@@ -125,18 +125,17 @@ promise.then(ResolveMethod, ErrorMethod);
 
 //Prototype chaining 
 
-function Person(name){
+function Person(name) {
   this.name = name;
 }
 
-Person.prototype.greet = function() {
-console.log(`Hello, my name is ${this.name}`);
+Person.prototype.greet = function () {
+  console.log(`Hello, my name is ${this.name}`);
 };
 
-function Devloper(name) 
-{
+function Devloper(name) {
   //console.log(name);
-  Person.call(this,name);
+  Person.call(this, name);
 }
 
 Devloper.prototype = Object.create(Person.prototype);
