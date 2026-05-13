@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "ASP.NET Core API",
+      "runtimeExecutable": "dotnet",
+      "runtimeArgs": ["run", "--no-build", "--project", "server/RealTimeLogistics.Api"],
+      "port": 5236
+    }
+  ]
+}

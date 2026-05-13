@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Apps\\source-code\\Yogesh\\WebCraftLab\\React\\React Apps\\real-time-logistics\\server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02FC0C31-A3A4-4BFD-99DE-4363AED383CF}|RealTimeLogistics.Api\\RealTimeLogistics.Api.csproj|d:\\apps\\source-code\\yogesh\\webcraftlab\\react\\react apps\\real-time-logistics\\server\\realtimelogistics.api\\dtos\\auth\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02FC0C31-A3A4-4BFD-99DE-4363AED383CF}|RealTimeLogistics.Api\\RealTimeLogistics.Api.csproj|solutionrelative:realtimelogistics.api\\dtos\\auth\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02FC0C31-A3A4-4BFD-99DE-4363AED383CF}|RealTimeLogistics.Api\\RealTimeLogistics.Api.csproj|d:\\apps\\source-code\\yogesh\\webcraftlab\\react\\react apps\\real-time-logistics\\server\\realtimelogistics.api\\dtos\\auth\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02FC0C31-A3A4-4BFD-99DE-4363AED383CF}|RealTimeLogistics.Api\\RealTimeLogistics.Api.csproj|solutionrelative:realtimelogistics.api\\dtos\\auth\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02FC0C31-A3A4-4BFD-99DE-4363AED383CF}|RealTimeLogistics.Api\\RealTimeLogistics.Api.csproj|d:\\apps\\source-code\\yogesh\\webcraftlab\\react\\react apps\\real-time-logistics\\server\\realtimelogistics.api\\dtos\\auth\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02FC0C31-A3A4-4BFD-99DE-4363AED383CF}|RealTimeLogistics.Api\\RealTimeLogistics.Api.csproj|solutionrelative:realtimelogistics.api\\dtos\\auth\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02FC0C31-A3A4-4BFD-99DE-4363AED383CF}|RealTimeLogistics.Api\\RealTimeLogistics.Api.csproj|d:\\apps\\source-code\\yogesh\\webcraftlab\\react\\react apps\\real-time-logistics\\server\\realtimelogistics.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02FC0C31-A3A4-4BFD-99DE-4363AED383CF}|RealTimeLogistics.Api\\RealTimeLogistics.Api.csproj|solutionrelative:realtimelogistics.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "D:\\Apps\\source-code\\Yogesh\\WebCraftLab\\React\\React Apps\\real-time-logistics\\server\\RealTimeLogistics.Api\\DTOs\\Auth\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "RealTimeLogistics.Api\\DTOs\\Auth\\RegisterRequest.cs",
+              "ToolTip": "D:\\Apps\\source-code\\Yogesh\\WebCraftLab\\React\\React Apps\\real-time-logistics\\server\\RealTimeLogistics.Api\\DTOs\\Auth\\RegisterRequest.cs",
+              "RelativeToolTip": "RealTimeLogistics.Api\\DTOs\\Auth\\RegisterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T17:48:09.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "D:\\Apps\\source-code\\Yogesh\\WebCraftLab\\React\\React Apps\\real-time-logistics\\server\\RealTimeLogistics.Api\\DTOs\\Auth\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "RealTimeLogistics.Api\\DTOs\\Auth\\LoginRequest.cs",
+              "ToolTip": "D:\\Apps\\source-code\\Yogesh\\WebCraftLab\\React\\React Apps\\real-time-logistics\\server\\RealTimeLogistics.Api\\DTOs\\Auth\\LoginRequest.cs",
+              "RelativeToolTip": "RealTimeLogistics.Api\\DTOs\\Auth\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T17:48:07.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthResponse.cs",
+              "DocumentMoniker": "D:\\Apps\\source-code\\Yogesh\\WebCraftLab\\React\\React Apps\\real-time-logistics\\server\\RealTimeLogistics.Api\\DTOs\\Auth\\AuthResponse.cs",
+              "RelativeDocumentMoniker": "RealTimeLogistics.Api\\DTOs\\Auth\\AuthResponse.cs",
+              "ToolTip": "D:\\Apps\\source-code\\Yogesh\\WebCraftLab\\React\\React Apps\\real-time-logistics\\server\\RealTimeLogistics.Api\\DTOs\\Auth\\AuthResponse.cs",
+              "RelativeToolTip": "RealTimeLogistics.Api\\DTOs\\Auth\\AuthResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T17:48:05.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\Apps\\source-code\\Yogesh\\WebCraftLab\\React\\React Apps\\real-time-logistics\\server\\RealTimeLogistics.Api\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "RealTimeLogistics.Api\\Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\Apps\\source-code\\Yogesh\\WebCraftLab\\React\\React Apps\\real-time-logistics\\server\\RealTimeLogistics.Api\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "RealTimeLogistics.Api\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T17:12:41.383Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

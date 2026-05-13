@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dotnet --version)",
+      "Bash(dotnet add:*)",
+      "Bash(dotnet restore:*)",
+      "Bash(dotnet build:*)",
+      "Bash(dotnet ef:*)",
+      "Bash(dotnet tool:*)",
+      "mcp__Claude_Preview__preview_start",
+      "Bash(sqlcmd -?)",
+      "Bash(sc query:*)",
+      "Bash(dotnet run:*)",
+      "Bash(netstat -ano)",
+      "Bash(taskkill //PID 27116 //F)"
+    ]
+  }
+}
